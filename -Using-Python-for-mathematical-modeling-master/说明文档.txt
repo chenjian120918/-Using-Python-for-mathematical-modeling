@@ -1,0 +1,6 @@
+问题一的程序说明：
+input_data：飞机的转场记录表信息，其中对时间进行了unix格式转换，并提取出来了只包含20日的数据信息
+gates：登机台的相关信息表
+tickets：中转旅客信息表
+程序运行直接在系统shell环境里面运行：win+r -> cmd+enter -> python model.py
+最终结果保存在res文件夹下

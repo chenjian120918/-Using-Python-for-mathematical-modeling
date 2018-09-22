@@ -1,0 +1,70 @@
+登机口,终端厅,区域,到达类型,出发类型,机体类别
+T1,T,North,I,I,N
+T2,T,North,I,I,W
+T3,T,North,I,I,W
+T4,T,North,I,I,W
+T5,T,North,I,"D, I",W
+T6,T,North,"D, I","D, I",W
+T7,T,North,"D, I","D, I",N
+T8,T,North,"D, I",D,N
+T9,T,North,"D, I",D,N
+T10,T,Center,D,D,N
+T11,T,Center,D,D,N
+T12,T,Center,D,D,N
+T13,T,Center,D,D,N
+T14,T,Center,D,D,N
+T15,T,Center,D,D,N
+T16,T,Center,D,D,N
+T17,T,Center,D,D,N
+T18,T,Center,D,D,N
+T19,T,Center,D,D,N
+T20,T,South,D,"D, I",N
+T21,T,South,D,"D, I",N
+T22,T,South,"D, I","D, I",N
+T23,T,South,"D, I","D, I",W
+T24,T,South,"D, I","D, I",W
+T25,T,South,"D, I",I,W
+T26,T,South,I,I,W
+T27,T,South,I,I,W
+T28,T,South,I,I,W
+S1,S,North,D,D,N
+S2,S,North,D,D,N
+S3,S,North,D,D,N
+S4,S,North,D,D,N
+S5,S,North,D,D,N
+S6,S,North,D,D,N
+S7,S,North,D,D,N
+S8,S,North,D,D,N
+S9,S,North,D,D,N
+S10,S,North,D,D,N
+S11,S,Center,I,I,N
+S12,S,Center,I,I,N
+S13,S,Center,I,I,N
+S14,S,Center,D,D,N
+S15,S,Center,D,D,N
+S16,S,Center,D,D,N
+S17,S,Center,D,D,N
+S18,S,Center,D,D,N
+S19,S,Center,D,D,N
+S20,S,Center,D,D,N
+S21,S,South,D,D,N
+S22,S,South,D,D,N
+S23,S,South,D,D,N
+S24,S,South,D,D,N
+S25,S,South,D,D,N
+S26,S,South,D,D,N
+S27,S,South,D,D,N
+S28,S,South,D,D,N
+S29,S,South,D,D,W
+S30,S,South,D,D,W
+S31,S,East,I,I,W
+S32,S,East,I,I,W
+S33,S,East,I,I,W
+S34,S,East,I,I,W
+S35,S,East,I,I,W
+S36,S,East,I,I,W
+S37,S,East,I,I,W
+S38,S,East,I,I,W
+S39,S,East,I,I,W
+S40,S,East,I,I,W
+S41,S,East,I,I,W
