@@ -5,4 +5,5 @@
 ## 3.利用python中matplotlib库做各种美观的数据可视化
 ## 4.利用python中的Statsmodels库进行描述统计，相关性分析、因子分析、检验以及统计推断--对比stata、eviews、spss
 ## 5.利用python进行线性拟合、线性回归等等
-## 6.利用python中pandas、numpy科学计算库进行建模##7.利用线性规划第三方库pulp来解决线性规划问题
+## 6.利用python中pandas、numpy科学计算库进行建模
+## 7.利用线性规划第三方库pulp来解决线性规划问题
